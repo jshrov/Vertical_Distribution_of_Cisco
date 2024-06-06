@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Vertical distribution of Lake Superior cisco (Coregonus
+  artedi) spawning aggregations and implications for
+  population monitoring analysis workflow
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jeremiah
+    family-names: Shrovnal
+  - given-names: Bradley
+    family-names: Ray
+  - given-names: Dray
+    family-names: Carl
+  - given-names: Stephanie
+    family-names: Shaw
+  - given-names: Scott
+    family-names: Sapper
+  - given-names: Christopher
+    family-names: Zunker
+  - given-names: Ross
+    family-names: Lind
+repository-code: 'https://github.com/jshrov/Vertical_Distribution_of_Cisco'
+abstract: >-
+  Supporting workflow and code used for the analyses
+  submitted as Vertical distribution of Lake Superior cisco
+  (Coregonus artedi) spawning aggregations and implications
+  for population monitoring to JGLR
+license: MIT
